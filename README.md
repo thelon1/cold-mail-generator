@@ -48,8 +48,6 @@ Instantly get personalized cold emails, crafted to match each role’s requireme
 
 # 📁 Folder Structure
 
-## 📁 Project Structure
-
 | Path                         | Description                                                   |
 |------------------------------|---------------------------------------------------------------|
 | `cold-mail-generator/`       | Root directory of the project                                 |
